@@ -1,4 +1,4 @@
-# oilprice
+# Haskell Brent Crude Oil price CLI
 
 Pulls the current Brent crude price. Used as a Fastfetch module.
 
